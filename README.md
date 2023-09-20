@@ -12,7 +12,7 @@ Solution consist of 3 projects:
 **Set as start project and use as input** 
 Web API project using swagger to expose the following Get methods on the ChallengeController:
   - GetFactorial: HttpGet method with input factorial integer, returns the factorial result as a string.
-  - GetFizzBuzz: HttpGet method with no input and returns FizzBuzz output to 100, with each result on a sperate line.
+  - GetFizzBuzz: HttpGet method with no input and returns FizzBuzz output to 100, with each result on a seperate line.
 ## ULSolutions.InfraStructure
 Class library to handle the following commands:
   - CalculateFactorialCommand:
