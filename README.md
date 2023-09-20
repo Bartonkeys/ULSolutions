@@ -3,7 +3,7 @@
 Coding challenge solution to allow users to calculate Factorials and FizzBuzz.
 
 Leverages the following patterns and packages:
-- MediatR - allow request/responses for command and queries with clean serperation.
+- MediatR - allow request/responses for command and queries with clean separation.
 - Result pattern - Lightweight object to indicate success / failure
 - Fluent Validation - Allow defination of strongly typed rules.
 
