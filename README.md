@@ -1,6 +1,6 @@
 # ULSolutions
 
-Coding challenge solution to allow users to calulate Factorials and FizzBuzz.
+Coding challenge solution to allow users to calculate Factorials and FizzBuzz.
 
 Leverages the following patterns and packages:
 - MediatR - allow request/responses for coammand and queroies with clen serperation.
